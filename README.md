@@ -13,7 +13,23 @@ The main idea behind the application is to provide a platform where people can s
 * When the time of auction that the owner provided ends, the product will be sold to the last person with the highest bid and will be removed from the home page.
 
 
+## Register Page:
+![Register]()
 
+## Login Page:
+![Login]()
+
+## Home Page:
+![Home]()
+
+## Dashboard:
+![Dashboard]()
+
+## Add Product:
+![Add Product]()
+
+## Product Details/Bidding Room:
+![Product Details]()
 
 ## Technologies Used:
 - Node.js
