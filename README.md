@@ -14,22 +14,22 @@ The main idea behind the application is to provide a platform where people can s
 
 
 ## Register Page:
-![Register]()
+![Register](Mazad/server/screenshots/register.png)
 
 ## Login Page:
-![Login]()
+![Login](Mazad/server/screenshots/login.png)
 
 ## Home Page:
-![Home]()
+![Home](Mazad/server/screenshots/home.jpg)
 
 ## Dashboard:
-![Dashboard]()
+![Dashboard](Mazad/server/screenshots/dashboard.jpg)
 
 ## Add Product:
-![Add Product]()
+![Add Product](Mazad/server/screenshots/addaproduct.png)
 
 ## Product Details/Bidding Room:
-![Product Details]()
+![Product Details](Mazad/server/screenshots/productdetails.jpg)
 
 ## Technologies Used:
 - Node.js
